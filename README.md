@@ -11,8 +11,8 @@ This tool is not recommended to build any thing, and if you are concidering it, 
 
 ## Things to think before getting started:
 
-- Lang:
-- Standard library:
-- Own file extention:
-- TS or JSDoc:
+- Lang: Zig
+- JS Standard Library: Yes
+- Own file extention: No
+- TS or JSDoc: TS
 - 
